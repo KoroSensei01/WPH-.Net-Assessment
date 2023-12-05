@@ -1,0 +1,109 @@
+body {
+  background-color: #efefef;
+  font-family: Arial, sans-serif; /* Set a generic font family for better readability */
+  line-height: 1.6; /* Improve the line height for easier reading */
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  height: 100%;
+}
+
+.container-text {
+  flex: 1; /* Make the content section take up the remaining space */
+  padding: 10px;
+  box-sizing: border-box; /* Include padding in width calculations */
+}
+
+.img {
+  width: 50%; /* Set the width of the image to cover half of the container */
+  height: 100vh; /* Set the height of the image to cover the entire viewport height */
+  object-fit: cover; /* Ensure the image covers the entire container */
+}
+
+.container-text h1 {
+  font-size: 28px; /* Increase the font size of the main heading */
+  margin-bottom: 20px; /* Add margin below the heading */
+  color: aqua;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+}
+
+.container-text .context-venue {
+  display: flex; /* Use flexbox for layout */
+  align-items: center; /* Align items vertically */
+}
+
+.container-text .context-venue h3 {
+  font-size: 20px; /* Increase the font size of the subheading */
+  margin-bottom: 10px; /* Add margin below the subheading */
+  margin-right: 50px;
+  font-size: 28px;
+}
+
+.container-text .context-venue p {
+  font-size: 16px; /* Set font size for paragraphs */
+  color: #333; /* Set text color */
+  margin-bottom: 10px; /* Add margin below the subheading */
+  margin-right: 50px;
+}
+
+.container-text .context-venue2 {
+  display: flex; /* Use flexbox for layout */
+  align-items: center; /* Align items vertically */
+}
+
+.container-text .context-venue2 h3 {
+  font-size: 20px; /* Increase the font size of the subheading */
+
+  margin-right: 73px;
+  font-size: 28px;
+}
+
+.container-text .context-venue2 .date {
+  flex-direction: column;
+  font-size: 16px; /* Set font size for paragraphs */
+  color: #333; /* Set text color */
+}
+
+.container-text h4 #websiteLink {
+  text-decoration: none;
+  color: aqua;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    flex-direction: column; /* Stack elements vertically on smaller screens */
+  }
+
+  .img {
+    width: 100%; /* Image takes full width on smaller screens */
+    height: auto; /* Maintain aspect ratio */
+  }
+
+  .container-text {
+    padding: 10px; /* Adjust padding for better spacing */
+  }
+}
+
+.see-similar-events {
+  position: absolute;
+  bottom: 20px; /* Adjust as needed */
+  right: 20px; /* Adjust as needed */
+  display: flex;
+  align-items: center;
+  padding-right: 20px;
+}
+
+.circle-container {
+  width: 40px; /* Adjust size of the circle */
+  height: 40px; /* Adjust size of the circle */
+  border-radius: 50%; /* Create a circular container */
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px; /* Adjust margin as needed */
+}
