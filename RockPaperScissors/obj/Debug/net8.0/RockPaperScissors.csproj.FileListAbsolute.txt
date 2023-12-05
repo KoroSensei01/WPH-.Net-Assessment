@@ -1,0 +1,14 @@
+C:\Users\Blank\Desktop\H2 Employment\05-12-2023 - JIMMUEL M. REALIGUE\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.exe
+C:\Users\Blank\Desktop\H2 Employment\05-12-2023 - JIMMUEL M. REALIGUE\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.deps.json
+C:\Users\Blank\Desktop\H2 Employment\05-12-2023 - JIMMUEL M. REALIGUE\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.runtimeconfig.json
+C:\Users\Blank\Desktop\H2 Employment\05-12-2023 - JIMMUEL M. REALIGUE\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.dll
+C:\Users\Blank\Desktop\H2 Employment\05-12-2023 - JIMMUEL M. REALIGUE\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.pdb
+C:\Users\Blank\Desktop\H2 Employment\05-12-2023 - JIMMUEL M. REALIGUE\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blank\Desktop\H2 Employment\05-12-2023 - JIMMUEL M. REALIGUE\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\Blank\Desktop\H2 Employment\05-12-2023 - JIMMUEL M. REALIGUE\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.AssemblyInfo.cs
+C:\Users\Blank\Desktop\H2 Employment\05-12-2023 - JIMMUEL M. REALIGUE\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Blank\Desktop\H2 Employment\05-12-2023 - JIMMUEL M. REALIGUE\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.dll
+C:\Users\Blank\Desktop\H2 Employment\05-12-2023 - JIMMUEL M. REALIGUE\RockPaperScissors\obj\Debug\net8.0\refint\RockPaperScissors.dll
+C:\Users\Blank\Desktop\H2 Employment\05-12-2023 - JIMMUEL M. REALIGUE\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.pdb
+C:\Users\Blank\Desktop\H2 Employment\05-12-2023 - JIMMUEL M. REALIGUE\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.genruntimeconfig.cache
+C:\Users\Blank\Desktop\H2 Employment\05-12-2023 - JIMMUEL M. REALIGUE\RockPaperScissors\obj\Debug\net8.0\ref\RockPaperScissors.dll
